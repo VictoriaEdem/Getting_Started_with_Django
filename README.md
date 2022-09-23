@@ -1,4 +1,7 @@
 First Django project task from I4GxZuri training:
-Create a new Python virtual environment.
-Initialize it, and install Django in it.
-Create a new Django project. Use your ZuriBoard username as the name of the project.
+
+I created a new Python virtual environment.
+
+Initialized it, and installed Django in it.
+
+Then created a new Django project, using my ZuriBoard username as the name of the project.
