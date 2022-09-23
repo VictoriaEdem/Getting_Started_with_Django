@@ -1,2 +1,4 @@
-# first_django_task
-Created a virtual environment, zvenv, which I activated and installed Django in. Then I created a new Django project named VictoriaEffiwatt. Ran and quit server run using ctrl C
+First Django project task from I4GxZuri training
+Create a new Python virtual environment.
+Initialize it, and install Django in it.
+Create a new Django project. Use your ZuriBoard username as the name of the project.
